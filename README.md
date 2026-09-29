@@ -27,7 +27,7 @@ Um cardápio web interativo e responsivo desenvolvido para o **Le Cheff Ristoran
 │   ├── css/
 │   │   └── style.css
 │   └── img/
-│       ├── Imagem_prato.png
+│       ├── Imagem_prato.png (logo)
 │       ├── prato_1.jpg
 │       ├── prato_2.jpg
 │       └── ...
